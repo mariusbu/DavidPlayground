@@ -1,8 +1,16 @@
-#Test
+from turtle import *
+seite = 135
 
-import random
+def dreieck():
+    fd(seite)
+    lt(120)
+    fd(seite)
+    lt(120)
+    fd(seite)
+    lt(120)
 
-random.choice
-1. print("Wie heißt du?")
-    
-2. print("bist du blöd?")
+dreieck()
+lt(120)
+dreieck()
+lt (120)
+dreieck ()
